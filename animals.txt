@@ -2,4 +2,3 @@ girafe
 ours
 loup
 mouche
-zebre
